@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color:  #838584;
 }
 
 .calc {
@@ -15,6 +16,7 @@ body {
     border-radius: 5px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-style: solid;
 }
 
 .output {
